@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ https://backports.classicpress.net/$1 [R]
